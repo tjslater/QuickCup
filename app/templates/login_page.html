@@ -1,0 +1,54 @@
+{% extends "_base.html" %}
+{% block style %}
+    <link type="text/css" rel="stylesheet" media="screen" href="../static/css/login_style.css">
+{% endblock %}
+{% block scripts %}
+{% endblock %}
+
+{% block content %}
+    <script>
+        $(document).ready(function () {
+            $.vegas('slideshow', {
+                delay: 10000,
+                backgrounds: [
+                    { src: '../static/backbone/img/QuickCupLarger.png', fade: 1000 },
+                    { src: '../static/backbone/img/IMG_8478s.jpg', fade: 1000 },
+                    { src: '../static/img/IMG_8768s.jpg', fade: 1000 },
+                    { src: '../static/img/winterberriesSmall.jpg', fade: 1000 },
+                    { src: '../static/backbone/img/IMG_9278.jpg', fade: 1000 },
+                    { src: '../static/img/WheatPan.jpg', fade: 1000 },
+                    { src: '../static/backbone/img/fractal.jpg', fade: 1000 },
+                    { src: '../static/backbone/img/sailing.jpg', fade: 1000 },
+                    { src: '../static/backbone/img/admiral.jpg', fade: 1000 }
+                ]
+            })('overlay', {
+                src: '../static/css/overlays/11.png'
+            });
+        });
+    </script>
+    <script type="text/javascript" src="http://platform.linkedin.com/in.js">
+        api_key: ht82q5zsc7z2
+        onLoad: onLinkedInLoad
+        authorize: true
+        credentials_cookie: true
+        credentials_cookie_crc: true
+    </script>
+    <script src="../static/js/login_script.js"></script>
+    <div id='background'></div>
+    <div id='container'>
+        <div id="linkedin">
+            <div id="login">
+                <h3>Welcome to QuickCup</h3>
+                <h4>Feel free to login via Linkedin</h4>
+                <h5>It is private and secure</h5>
+            </div>
+            <script type="IN/Login"></script>
+            <p><em>This application will not share or sell your information.</em></p>
+        </div>
+        <div id="greeting">
+            <form method="POST">{% csrf_token %}{{ login_form }}
+            </form>
+        </div>
+    </div>
+
+{% endblock %}

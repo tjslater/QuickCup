@@ -1,0 +1,35 @@
+#login-wrapper
+{
+ /*   display: none;*/
+}
+
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.428571429;
+    color: #333333;
+    background: url('../img/QuickCupLarger.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#login-panel{
+    background: rgba(0,0,0,0.5);
+    width: 33%;
+    height: 100%;
+    position: absolute;
+}
+
+#login-text, form{
+    text-align: center;
+    font-family: Tahoma;
+    color: white;
+    text-shadow: 3px 3px 1px black;
+}
+
+input[type=text], label {
+    display: none
+}
+

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <script src="../static/js/jquery-1.9.1.js"></script>
+    <script src="../static/js/underscore.js"></script>
+    <script src="../static/js/backbone.js"></script>
+    <script src="../static/js/backbone-collection-proxy.js"></script>
+    <script src="../static/js/backbone-filtered-collection.js"></script>
+
+
+
+</head>
+<body>
+<script>
+
+    window.TastypieModel = Backbone.Model.extend({
+        base_url: function () {
+            var temp_url = Backbone.Model.prototype.url.call(this);
+            return (temp_url.charAt(temp_url.length - 1) == '/' ? temp_url : temp_url + '/');
+        },
+
+        url: function () {
+            return this.base_url();
+        }
+    });
+    window.TastypieCollection = Backbone.Collection.extend({
+        parse: function (response) {
+            this.recent_meta = response.meta || {};
+            return response.objects || response;
+        }
+    });
+    var User = TastypieModel.extend({
+        urlRoot: function () {
+            url = 'http://bootcamp.rocketu.com/api/v1/user/';
+            return url;
+        }
+    });
+    var Users = TastypieCollection.extend({
+        url: 'http://bootcamp.rocketu.com/api/v1/user/',
+        model: User
+    });
+
+    function filterCollection(collection){
+        var filtered = new FilteredCollection(collection);
+        /*filtered.filterBy({
+            "longitude": "-122.484842909"
+        });*/
+        filtered.filterBy('coordinates', function(model){
+            return model.get('latitude') >= 37.7 && model.get('latitude') <= 37.75;
+        });
+        return filtered
+    }
+    var filtered_users = "";
+    var users = new Users();
+    users.fetch({
+        success: function(collection, response){
+          filtered_users = filterCollection(collection);
+          console.log(filtered_users);
+        }
+    });
+
+
+
+
+
+
+
+</script>
+</body>
+</html>

@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>QuickCup | Spontaneous Coffee</title>
+    <script src=""></script>
+    <script src="../static/js/jquery-1.10.2.min.js"></script>
+    <script src="../static/js/jquery-1.10.2.min.map"></script>
+    <script src="../static/js/jquery.cookie.js"></script>
+    <script src="../static/js/underscore.js"></script>
+    <script src="../static/js/backbone.js"></script>
+    <script src="../static/js/backbone-tastypie.js"></script>
+    <script src="../static/js/backbone.localStorage-min.js"></script>
+    <script src="../static/js/backbone-collection-proxy.js"></script>
+    <script src="../static/js/backbone-filtered-collection.js"></script>
+    <script src="../static/js/backbone-relational.js"></script>
+    <script src="../static/js/bootstrap.min.js"></script>
+
+    <link rel="stylesheet" href="../static/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../static/css/app.css">
+</head>
+<body>
+
+{% comment %}<div id="login-wrapper">
+    <div id="login-panel">
+        <div id="login-text">
+            <h2>Welcome to QuickCup</h2>
+
+            <h3>Signing in is easy and secure</h3><br/>
+            <h4>
+                <script type="in/Login"></script>
+            </h4>
+        </div>
+    </div>
+</div>
+<script type="text/javascript" src="http://platform.linkedin.com/in.js">
+    api_key: ht82q5zsc7z2
+    onLoad: onLinkedInLoad
+    authorize: true
+    /*credentials_cookie: true
+     credentials_cookie_crc: true*/
+</script>{% endcomment %}
+<script id="profile" type="text/template">
+    <span><%= first_name ></span>
+
+    <p><%= last_name ></p>
+</script>
+<div id="page">
+
+</div>
+<div id="app-wrapper">
+    <div class="feed"></div>
+    <div id="map"></div>
+    <div id="invite"></div>
+</div>
+<script src="../static/backbone/app/_Config.js"></script>
+<script src="../static/backbone/app/Models.js"></script>
+<script src="../static/backbone/app/Collections.js"></script>
+<script src="../static/backbone/app/App.js"></script>
+<script src="../static/backbone/app/Router.js"></script>
+<script src="../static/backbone/app/Login.js"></script>
+
+</div>
+</body>
+</html>

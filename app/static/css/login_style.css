@@ -1,0 +1,62 @@
+input[type=text], label {
+    display: none
+}
+
+#background {
+    background-image: url('QuickCupLargeTrans.png');
+    background-color: #e7dbac;
+    background-position: right;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    z-index: -1;
+    position: absolute;
+}
+
+#container {
+    overflow: auto;
+}
+
+#linkedin {
+    position: absolute;
+    font-size: 1.2em;
+    text-align: center;
+    color: yellow;
+    text-shadow: rgb(0, 0, 0) 0px 3px 3px;
+    background: rgba(0, 0, 0, .6);
+    border-radius: 4px 4px 4px 4px;
+    margin: auto;
+    padding: 1em 2em;
+    height: 100%;
+}
+
+#greeting {
+    position: absolute;
+    font-size: 1.2em;
+    text-align: center;
+    color: yellow;
+    height: 100%;
+    text-shadow: rgb(0, 0, 0) 0px 3px 3px;
+    background: rgba(0, 0, 0, .6);
+    border-radius: 4px 4px 4px 4px;
+    display: none;
+
+    margin: auto;
+    padding: 1em 2em;
+
+}
+
+h2, h3 {
+    font-size: 4em;
+}
+
+footer {
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    height: 30px;
+    width: 100%;
+    background: #999;
+}

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<script src="../static/js/jquery-1.10.2.min.js"></script>
+<script src="../static/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="../static/css/bootstrap.min.css">
+<link rel="stylesheet" href="../static/css/feed_style.css">
+<style>
+    #container {
+        height: 100%;
+        width: 90%;
+        padding: 2em 0 1em 1em;
+        border-radius: 1em;
+        margin: 5% auto 5% auto;
+        border: 1px rgba(230, 220, 225, 0.5) solid;
+    }
+
+    ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+    }
+
+</style>
+<body>
+{% include "_nav.html" %}
+<div id="container">
+    <div id="search-area">
+        <label for="search">Search for a user!</label>
+
+        <p>Enter search information (first name, last name, industry, or position)</p>
+        <input type="search" name="search" id="search" placeholder="">
+
+        <div id="update"></div>
+    </div>
+</div>
+<script>
+    $('#search').keyup(function () {
+        var searchField = $('#search').val();
+        var myExp = new RegExp(searchField, "i");
+        $.getJSON('http://bootcamp.rocketu.com/api/v1/user/', function (data) {
+            var output = '<ul class="searchresults">';
+            $.each(data["objects"], function (key, val) {
+                if ((val.first_name.search(myExp) != -1) ||
+                        (val.last_name.search(myExp) != -1)) {
+                    output += '<li class="panel" id="' + val.linkedin + '" >';
+                    output += '<h2>' + val.first_name + " " + val.last_name + '</h2>';
+                    output += '<img src="' + val.picture_url + '" alt="' + val.first_name + '" />';
+                    output += '<p>' + val.headline + '</p>'
+                    output += '<p>' + val.industry.name + '</p>'
+                    output += '<p>' + val.location.name + '</p>'
+                    output += '</li>';
+
+                }
+            });
+            output += '</ul>';
+            if (searchField == null || searchField == undefined || searchField == "") {
+                $('#update').html("");
+            } else {
+
+
+                $('#update').html(output);
+            }
+        }); //get json
+
+    });
+</script>
+</body>
+</html>

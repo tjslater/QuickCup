@@ -1,0 +1,75 @@
+{% extends "_base.html" %}
+{% block style %}
+{% endblock %}
+{% block scripts %}
+{% endblock %}
+{% block content %}
+    {% include "_nav.html" %}
+    <style>
+.form-control{
+    width: 80%
+}
+.form-group{
+    margin: .5em 0
+}
+    </style>
+    <div id="container" style="margin-top: 5em; margin-left:2em;">
+
+        <form method="POST">
+            {% csrf_token %}
+            <div class="form-group">
+                <label for="id_first_name">First name:</label>
+                <input class="form-control" id="id_first_name" maxlength="64" name="first_name"
+                       type="text" value="{{ user.first_name }}">
+            </div>
+            <div class="form-group">
+                <label for="id_last_name">Last name:</label>
+                <input class="form-control" id="id_last_name" maxlength="64"
+                       name="last_name"
+                       type="text"
+                       value="{{ user.last_name }}">
+            </div>
+            <label for="id_headline">Headline:</label>
+            <input class="form-control" id="id_headline" maxlength="128"
+                   name="headline"
+                   type="text" value="{{ user.headline }}">
+
+
+            <div class="form-group">
+                <label for="id_experience">Experience (years):</label>
+                <input class="form-control" id="id_experience"
+                       maxlength="4"
+                       name="experience"
+                       type="text"
+                       value="{{ user.experience }}">
+            </div>
+            <label for="id_age">Age:</label>
+            <input class="form-control" id="id_age" maxlength="4" name="age" type="text"
+                   value="{{ user.age }}">
+            <h5 id="id_first_name">Location: <strong>{{ user.location }}</strong></h5>
+            <h5 id="id_first_name">Industry: <strong>{{ user.industry }}</strong></h5>
+
+            <div class="form-group">
+                <p><input type="radio" id="id_availability" value=0 name="availability"> Unavailable</p>
+
+                <p><input type="radio" id="id_availability" value=1 name="availability"> Available</p>
+            </div>
+            <label>
+                <button type='submit' class='btn btn-default' value='submit'>Update Profile</button>
+            </label>
+        </form>
+
+        <div id="details">
+            <p>Networking status:
+                {% if user.availability == "1" %}
+                    <span style="color: green">Available</span><br/>
+                {% else %}
+                    <span style="color: grey">Unavailable</span><br/>
+                {% endif %}
+
+            <p><em>joined: {{ user.join_date }}</em></p>
+
+        </div>
+    </div>
+
+{% endblock %}

@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>QuickCup | Spontaneous Coffee</title>
+    <script src="../../../../Documents/My%20Web%20Sites/QuickCup-Development/vendor/jquery-1.10.2.min.js"></script>
+    <script src="../../../../Documents/My%20Web%20Sites/QuickCup-Development/vendor/underscore.js"></script>
+    <script src="../../../../Documents/My%20Web%20Sites/QuickCup-Development/vendor/backbone.js"></script>
+    <script src="../../../../Documents/My%20Web%20Sites/QuickCup-Development/vendor/backbone-tastypie.js"></script>
+    <script src="../../../../Documents/My%20Web%20Sites/QuickCup-Development/vendor/backbone.localStorage-min.js"></script>
+    <script src="../../../../Documents/My%20Web%20Sites/QuickCup-Development/vendor/backbone-collection-proxy.js"></script>
+    <script src="../../../../Documents/My%20Web%20Sites/QuickCup-Development/vendor/backbone-filtered-collection.js"></script>
+    <script src="../../../../Documents/My%20Web%20Sites/QuickCup-Development/vendor/bootstrap.min.js"></script>
+
+    <link rel="stylesheet" href="../../../../Documents/My%20Web%20Sites/QuickCup-Development/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../../../../Documents/My%20Web%20Sites/QuickCup-Development/css/app.css">
+
+</head>
+
+<body>
+
+<div id="login-wrapper">
+    <div id="login-panel">
+        <div id="login-text">
+            <h2>Welcome to QuickCup</h2>
+
+            <h3>Signing in is easy and secure</h3><br/>
+            <h4>
+                <script type="in/Login"></script>
+            </h4>
+
+        </div>
+        <div id='form-save'>
+            <form id='save-user' method="POST">
+                {% csrf_token %}{{ login_form }}
+            </form>
+        </div>
+    </div>
+
+    <script type="text/javascript" src="http://platform.linkedin.com/in.js">
+        api_key: ht82q5zsc7z2
+        onLoad: onLinkedInLoad
+        authorize: true
+        /*credentials_cookie: true
+         credentials_cookie_crc: true*/
+    </script>
+
+    <div class="feed"></div>
+    <div class="profile"></div>
+    <div id="map"></div>
+    <div id="invite"></div>
+</div>
+<div>
+    <script src="../../../../Documents/My%20Web%20Sites/QuickCup-Development/app/Login.js"></script>
+    <script src="../../../../Documents/My%20Web%20Sites/QuickCup-Development/app/_Config.js"></script>
+    <script src="../../../../Documents/My%20Web%20Sites/QuickCup-Development/app/Models.js"></script>
+    <script src="../../../../Documents/My%20Web%20Sites/QuickCup-Development/app/Collections.js"></script>
+    <script src="../../../../Documents/My%20Web%20Sites/QuickCup-Development/app/Views/App.js"></script>
+    <script src="../../../../Documents/My%20Web%20Sites/QuickCup-Development/app/Router.js"></script>
+</div>
+</body>
+</html>

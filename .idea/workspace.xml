@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" name="Default" comment="" />
+    <ignored path="QuickCup.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/settings.py" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1381164243615" ignored="false" />
+    <file path="/models.py" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1379028512680" ignored="false" />
+    <file path="/job_title.py" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1379029101414" ignored="false" />
+    <file path="/user_model.py" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1379033954794" ignored="false" />
+    <file path="/invite_model.py" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380147406863" ignored="false" />
+    <file path="/__init__.py" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380146879728" ignored="false" />
+    <file path="/industry_model.py" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380076462553" ignored="false" />
+    <file path="/interest_model.py" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1379031961576" ignored="false" />
+    <file path="/urls.py" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380735684498" ignored="false" />
+    <file path="/users_model.py" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380228807979" ignored="false" />
+    <file path="$PROJECT_DIR$/../singleFiles/battleship.py" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1379088124599" ignored="false" />
+    <file path="/battleship.py" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1379088119365" ignored="false" />
+    <file path="/login_view.py" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1381248296427" ignored="false" />
+    <file path="/login_page.html" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380996006352" ignored="false" />
+    <file path="/feed_view.py" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1381346960316" ignored="false" />
+    <file path="/map_locations_view.py" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1379460690913" ignored="false" />
+    <file path="/feed_page.html" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1381347011878" ignored="false" />
+    <file path="/map_locations_page.html" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1381249401598" ignored="false" />
+    <file path="/meeting_confirmed_view.py" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1379094023988" ignored="false" />
+    <file path="/profile_view.py" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1381272027915" ignored="false" />
+    <file path="/profile_page.html" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1381274826436" ignored="false" />
+    <file path="/send_invite_view.py" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1379906445880" ignored="false" />
+    <file path="/send_invite_page.html" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380004974038" ignored="false" />
+    <file path="/_base.html" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1381252998088" ignored="false" />
+    <file path="/base.html" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1379112203456" ignored="false" />
+    <file path="/test_view.py" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1381008237112" ignored="false" />
+    <file path="/test_page.html" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380820437906" ignored="false" />
+    <file path="/login_script.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380994122140" ignored="false" />
+    <file path="/login_style.css" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1379978890771" ignored="false" />
+    <file path="/login_display_profiles_script.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380213808859" ignored="false" />
+    <file path="/login_form.py" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1379357919269" ignored="false" />
+    <file path="$PROJECT_DIR$/../Sep52013/MyApplication/forms.py" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1379700815197" ignored="false" />
+    <file path="/forms.py" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1381272189124" ignored="false" />
+    <file path="/map_locations_script.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1381352409536" ignored="false" />
+    <file path="/feed_page.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1379548531400" ignored="false" />
+    <file path="/send_invite_script.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1379966698727" ignored="false" />
+    <file path="/send_invite_confirm_page.html" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1379968111110" ignored="false" />
+    <file path="/send_invite_confirm_view.py" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1381359696835" ignored="false" />
+    <file path="/feed_style.css" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1381249297907" ignored="false" />
+    <file path="/_nav.html" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1379982986391" ignored="false" />
+    <file path="/user_search_view.py" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380048727095" ignored="false" />
+    <file path="/resources.py" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1381165596744" ignored="false" />
+    <file path="/user_search_page.html" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1381442572307" ignored="false" />
+    <file path="/location_model.py" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380073221151" ignored="false" />
+    <file path="$PROJECT_DIR$/../KnockoutJS/index.html" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380085800464" ignored="false" />
+    <file path="/index.html" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1381192978629" ignored="false" />
+    <file path="$PROJECT_DIR$/../KnockoutJS/js/main.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380084968192" ignored="false" />
+    <file path="/main.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380586568066" ignored="false" />
+    <file path="$PROJECT_DIR$/../KnockoutJS/js/Product.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380085692364" ignored="false" />
+    <file path="/Product.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380085112585" ignored="false" />
+    <file path="$PROJECT_DIR$/../KnockoutJS/js/ProductsViewModel.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380122843079" ignored="false" />
+    <file path="/ProductsViewModel.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380122843079" ignored="false" />
+    <file path="$PROJECT_DIR$/../QuickCup-Backbone/index.html" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380313611003" ignored="false" />
+    <file path="$PROJECT_DIR$/../QuickCup-Backbone/js/app.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380266279542" ignored="false" />
+    <file path="$PROJECT_DIR$/../QuickCup-Backbone/js/routers/router.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380173931154" ignored="false" />
+    <file path="$PROJECT_DIR$/../QuickCup-Backbone/js/views/app.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380266526761" ignored="false" />
+    <file path="$PROJECT_DIR$/../QuickCup-Backbone/js/models/tido.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380169959577" ignored="false" />
+    <file path="$PROJECT_DIR$/../QuickCup-Backbone/js/models/todo.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380171231584" ignored="false" />
+    <file path="$PROJECT_DIR$/../QuickCup-Backbone/js/views/todos.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380174046441" ignored="false" />
+    <file path="$PROJECT_DIR$/../QuickCup-Backbone/js/collections/todos.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380171465727" ignored="false" />
+    <file path="/todo.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380171224783" ignored="false" />
+    <file path="/todos.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380173773328" ignored="false" />
+    <file path="/app.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380838980995" ignored="false" />
+    <file path="/users.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380229145752" ignored="false" />
+    <file path="$PROJECT_DIR$/../QuickCup-Backbone/js/collections/users.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380229145752" ignored="false" />
+    <file path="$PROJECT_DIR$/../QuickCup-Backbone/js/models/user.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380308453765" ignored="false" />
+    <file path="/user.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380266141928" ignored="false" />
+    <file path="$PROJECT_DIR$/../QuickCup-Backbone/index2.html" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380264173690" ignored="false" />
+    <file path="/index2.html" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380737114836" ignored="false" />
+    <file path="$PROJECT_DIR$/../less/index.html" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380299682399" ignored="false" />
+    <file path="/style.less" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380300731220" ignored="false" />
+    <file path="$PROJECT_DIR$/../less/style.less" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380300733971" ignored="false" />
+    <file path="$USER_HOME$/Desktop/backboneWork/backbone-boilerplate-master/app/main.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380586191390" ignored="false" />
+    <file path="$PROJECT_DIR$/../tjslaterTest/tjslaterTest/settings.py" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380576708792" ignored="false" />
+    <file path="$USER_HOME$/AppData/Local/Temp/Rar$DRa0.455/12-todos-mini-project-with-homework/js/main.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380586568066" ignored="false" />
+    <file path="$USER_HOME$/Desktop/backboneWork/backbone-boilerplate-master/app/domevents.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1381213908264" ignored="false" />
+    <file path="/domevents.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1381111633224" ignored="false" />
+    <file path="$USER_HOME$/Desktop/backboneWork/backbone-boilerplate-master/index2.html" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380737122923" ignored="false" />
+    <file path="$USER_HOME$/Desktop/backboneWork/backbone-boilerplate-master/getjson.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380733122699" ignored="false" />
+    <file path="/stuff.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380739428811" ignored="false" />
+    <file path="$USER_HOME$/Desktop/backboneWork/backbone-boilerplate-master/app/RouterStuff.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380761116184" ignored="false" />
+    <file path="$USER_HOME$/Desktop/backboneWork/backbone-boilerplate-master/index.html" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380760678510" ignored="false" />
+    <file path="/RouterStuff.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380760895377" ignored="false" />
+    <file path="$USER_HOME$/Documents/My Web Sites/QuickCup-Development/index.html" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1381006835615" ignored="false" />
+    <file path="$USER_HOME$/Documents/My Web Sites/QuickCup-Development/app/Router.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380850854822" ignored="false" />
+    <file path="/Router.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1381171303862" ignored="false" />
+    <file path="/Views.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380863465762" ignored="false" />
+    <file path="$USER_HOME$/Documents/My Web Sites/QuickCup-Development/app/Views.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380850438425" ignored="false" />
+    <file path="$USER_HOME$/Documents/My Web Sites/QuickCup-Development/app/app.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380838990011" ignored="false" />
+    <file path="$USER_HOME$/Documents/My Web Sites/QuickCup-Development/app/_Config.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380839865860" ignored="false" />
+    <file path="/_Config.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1381131757173" ignored="false" />
+    <file path="$USER_HOME$/Documents/My Web Sites/QuickCup-Development/app/Collections.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380849755056" ignored="false" />
+    <file path="/Collections.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1381174657786" ignored="false" />
+    <file path="$USER_HOME$/Documents/My Web Sites/QuickCup-Development/app/Models.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380849946376" ignored="false" />
+    <file path="/Models.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1381247713054" ignored="false" />
+    <file path="$USER_HOME$/Documents/My Web Sites/QuickCup-Development/app/Views/Views.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380863467127" ignored="false" />
+    <file path="$USER_HOME$/Documents/My Web Sites/QuickCup-Development/app/Login.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1381008059414" ignored="false" />
+    <file path="/Login.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1381175140599" ignored="false" />
+    <file path="$USER_HOME$/Documents/My Web Sites/QuickCup-Development/css/app.css" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1380993359427" ignored="false" />
+    <file path="/app.css" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1381114987066" ignored="false" />
+    <file path="/App.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1381214134570" ignored="false" />
+    <file path="/makeshift.js" changelist="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" time="1381192950825" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DatabaseView">
+    <flatten value="false" />
+    <groupTables value="false" />
+    <sortChildren value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="QuickCup" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="login_page.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/templates/login_page.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="18" selection-start="18" selection-end="18" vertical-scroll-proportion="-0.0">
+              <folding>
+                <element signature="n#block#2;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="devices.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/static/css/devices.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="feed_style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/static/css/feed_style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.vegas.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/static/css/jquery.vegas.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.vegas.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/static/css/jquery.vegas.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user_search_page.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/templates/user_search_page.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="48" column="69" selection-start="1554" selection-end="1554" vertical-scroll-proportion="-8.478261">
+              <folding>
+                <element signature="tag#style#0;tag#html#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login_style.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/static/css/login_style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="14" selection-start="276" selection-end="276" vertical-scroll-proportion="0.47413793">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_base.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/templates/_base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="36" column="18" selection-start="1812" selection-end="1812" vertical-scroll-proportion="-10.434783">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="send_invite_confirm_view.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/send_invite_confirm_view.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="88" selection-start="509" selection-end="509" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/app/templates/map_locations_page.html" />
+        <option value="$PROJECT_DIR$/app/templates/_base.html" />
+        <option value="$PROJECT_DIR$/QuickCup/settings.py" />
+        <option value="$PROJECT_DIR$/app/views/profile_view.py" />
+        <option value="$PROJECT_DIR$/app/forms.py" />
+        <option value="$PROJECT_DIR$/app/templates/profile_page.html" />
+        <option value="$PROJECT_DIR$/app/static/js/send_invite_script.js" />
+        <option value="$PROJECT_DIR$/app/templates/send_invite_page.html" />
+        <option value="$PROJECT_DIR$/app/views/feed_view.py" />
+        <option value="$PROJECT_DIR$/app/templates/feed_page.html" />
+        <option value="$PROJECT_DIR$/app/static/js/map_locations_script.js" />
+        <option value="$PROJECT_DIR$/app/views/meeting_confirmed_view.py" />
+        <option value="$PROJECT_DIR$/app/static/js/login_script.js" />
+        <option value="$PROJECT_DIR$/app/views/send_invite_confirm_view.py" />
+        <option value="$PROJECT_DIR$/app/templates/login_page.html" />
+        <option value="$PROJECT_DIR$/app/templates/user_search_page.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="55" />
+    <option name="y" value="-8" />
+    <option name="width" value="1319" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Google App Engine (Python)</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="QuickCup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="QuickCup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="QuickCup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="com.jetbrains.python.buildout.BuildoutModulesConfigurable" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/My Web Sites/QuickCup-Development" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <PyConsoleSettings>
+        <option name="myUseModuleSdk" value="true" />
+      </PyConsoleSettings>
+    </option>
+    <option name="myDjangoConsoleState">
+      <PyConsoleSettings />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Confucius\PycharmProjects\QuickCup\app\static\css" />
+      <recent name="C:\Users\Confucius\PycharmProjects\QuickCup\app\static\js" />
+      <recent name="C:\Users\Confucius\PycharmProjects\QuickCup\app\" />
+      <recent name="C:\Users\Confucius\PycharmProjects\QuickCup\app\models" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Confucius\PycharmProjects\QuickCup\app\static\css" />
+      <recent name="C:\Users\Confucius\PycharmProjects\QuickCup\app\static" />
+      <recent name="C:\Users\Confucius\PycharmProjects\QuickCup\app\static\backbone\app" />
+      <recent name="C:\Users\Confucius\PycharmProjects\QuickCup\app\static\js" />
+      <recent name="C:\Users\Confucius\PycharmProjects\QuickCup\app\static\backbone\vendor" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django server.QuickCup">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="QuickCup" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="QuickCup" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="QuickCup" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="QuickCup" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="QuickCup" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
+    <configuration default="false" name="QuickCup" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="QuickCup.settings" />
+      </envs>
+      <option name="SDK_HOME" value="C:/Python27/python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="QuickCup" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="80" />
+      <option name="host" value="bootcamp.rocketu.com" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Django server.QuickCup" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="true">C:\Users\Confucius\AppData\Roaming\Subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ff54e75-7d33-4779-9f32-8d28b65a7b0f" name="Default" comment="" />
+      <created>1379020602523</created>
+      <updated>1379020602523</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="55" y="-8" width="1319" height="784" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854864" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293556" sideWeight="0.6704" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2484375" sideWeight="0.6624" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28003183" sideWeight="0.632" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3392" sideWeight="0.5003978" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.368" sideWeight="0.49960223" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/views/meeting_denied_view.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/feed_view.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="8" selection-start="799" selection-end="799" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/map_locations_page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="48" selection-start="462" selection-end="462" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/meeting_confirmed_view.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/js/login_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="38" selection-start="1865" selection-end="1865" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/send_invite_confirm_view.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="88" selection-start="509" selection-end="509" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/img/QuickCupLarger.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/css/devices.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/css/jquery.vegas.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/css/jquery.vegas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/css/feed_style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/user_search_page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="69" selection-start="1554" selection-end="1554" vertical-scroll-proportion="-8.478261">
+          <folding>
+            <element signature="tag#style#0;tag#html#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/login_page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="18" selection-start="18" selection-end="18" vertical-scroll-proportion="-0.0">
+          <folding>
+            <element signature="n#block#2;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/_base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="18" selection-start="1812" selection-end="1812" vertical-scroll-proportion="-10.434783">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/css/login_style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="14" selection-start="276" selection-end="276" vertical-scroll-proportion="0.47413793">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
