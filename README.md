@@ -17,6 +17,7 @@ Backend:
   - security
   - templating and routing
   - MySQL integration
+  - API routing and endpoints for frontend integration
 
 Database:
 - MySQL
@@ -27,3 +28,18 @@ Frontend:
   - Bootstrap
 - Javascript
   - jQuery
+    - Vegas, jQuery slideshow plugin
+
+-----------------
+Next iteration
+
+Backbone connected to relational database API
+- Backbone
+  - Backbone-tastypie for API compatibility
+  - Backbone-Relational for DB compatibility
+  - Backbone-Filtered Collection for filtering by geolocation coordinates
+  - Backbone-local storage for backbone compatible local storage
+
+- RequireJS to handle loading 3rd party libraries
+
+- Underscore, Backbone depedency
